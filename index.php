@@ -7,6 +7,8 @@
     <title>website world</title>
 </head>
 <body>
-    
+    <h2 style="text-align: center;">
+        INI WEBSITE XII RPL
+    </h2>
 </body>
 </html>
